@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "nback_cimpl",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "JniBridge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JniBridge-Debug-17db319f23954af211f1.json",
+					"name" : "JniBridge",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nback_cimpl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nback_cimpl-Debug-fdec64be117494dd24de.json",
+					"name" : "nback_cimpl",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/pc/AndroidStudioProjects/nback_skeletoncode-master/app/.cxx/Debug/3e01z3q1/x86",
+		"source" : "C:/Users/pc/AndroidStudioProjects/nback_skeletoncode-master/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,1 @@
+/Users/yeetivity/Documents/2023/kth-mobappdev/android-dev/nback_skeletoncode_example/app/src/main/cpp/CMakeLists.txt

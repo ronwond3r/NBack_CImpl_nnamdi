@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/yeetivity/AndroidStudioProjects/NBack_CImpl/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/yeetivity/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/yeetivity/AndroidStudioProjects/NBack_CImpl/app/.cxx/RelWithDebInfo/5x6dk4w5/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/yeetivity/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/yeetivity/AndroidStudioProjects/NBack_CImpl/app/.cxx/RelWithDebInfo/5x6dk4w5/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "nback_cimpl::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "nback_cimpl",
+      "output": "/Users/yeetivity/AndroidStudioProjects/NBack_CImpl/app/build/intermediates/cxx/RelWithDebInfo/5x6dk4w5/obj/x86/libnback_cimpl.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/yeetivity/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/yeetivity/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

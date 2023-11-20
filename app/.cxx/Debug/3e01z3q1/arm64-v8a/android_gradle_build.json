@@ -1,0 +1,47 @@
+{
+  "buildFiles": [
+    "/Users/yeetivity/Documents/2023/kth-mobappdev/android-dev/nback_skeletoncode_example/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/yeetivity/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/yeetivity/Documents/2023/kth-mobappdev/android-dev/nback_skeletoncode_example/app/.cxx/Debug/3e01z3q1/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/yeetivity/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/yeetivity/Documents/2023/kth-mobappdev/android-dev/nback_skeletoncode_example/app/.cxx/Debug/3e01z3q1/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "JniBridge::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "JniBridge",
+      "output": "/Users/yeetivity/Documents/2023/kth-mobappdev/android-dev/nback_skeletoncode_example/app/build/intermediates/cxx/Debug/3e01z3q1/obj/arm64-v8a/libJniBridge.so",
+      "runtimeFiles": [
+        "/Users/yeetivity/Documents/2023/kth-mobappdev/android-dev/nback_skeletoncode_example/app/build/intermediates/cxx/Debug/3e01z3q1/obj/arm64-v8a/libnback_cimpl.so"
+      ]
+    },
+    "nback_cimpl::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "nback_cimpl",
+      "output": "/Users/yeetivity/Documents/2023/kth-mobappdev/android-dev/nback_skeletoncode_example/app/build/intermediates/cxx/Debug/3e01z3q1/obj/arm64-v8a/libnback_cimpl.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/yeetivity/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/yeetivity/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

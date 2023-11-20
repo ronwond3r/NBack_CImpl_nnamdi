@@ -1,0 +1,1 @@
+C:\Users\pc\AndroidStudioProjects\nback_skeletoncode-master\app\src\main\cpp\CMakeLists.txt

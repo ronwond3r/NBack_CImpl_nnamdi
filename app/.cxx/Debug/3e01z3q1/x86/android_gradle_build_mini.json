@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "C:\\Users\\pc\\AndroidStudioProjects\\nback_skeletoncode-master\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\pc\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\pc\\AndroidStudioProjects\\nback_skeletoncode-master\\app\\.cxx\\Debug\\3e01z3q1\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\pc\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\pc\\AndroidStudioProjects\\nback_skeletoncode-master\\app\\.cxx\\Debug\\3e01z3q1\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "nback_cimpl::@6890427a1f51a3e7e1df": {
+      "artifactName": "nback_cimpl",
+      "abi": "x86",
+      "output": "C:\\Users\\pc\\AndroidStudioProjects\\nback_skeletoncode-master\\app\\build\\intermediates\\cxx\\Debug\\3e01z3q1\\obj\\x86\\libnback_cimpl.so",
+      "runtimeFiles": []
+    },
+    "JniBridge::@6890427a1f51a3e7e1df": {
+      "artifactName": "JniBridge",
+      "abi": "x86",
+      "output": "C:\\Users\\pc\\AndroidStudioProjects\\nback_skeletoncode-master\\app\\build\\intermediates\\cxx\\Debug\\3e01z3q1\\obj\\x86\\libJniBridge.so",
+      "runtimeFiles": [
+        "C:\\Users\\pc\\AndroidStudioProjects\\nback_skeletoncode-master\\app\\build\\intermediates\\cxx\\Debug\\3e01z3q1\\obj\\x86\\libnback_cimpl.so"
+      ]
+    }
+  }
+}
